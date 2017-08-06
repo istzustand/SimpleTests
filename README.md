@@ -1,2 +1,2 @@
 # SimpleTests
-[![Build Status](http://78.47.131.110:8080/job/SimpleTests/badge/icon)](http://78.47.131.110:8080/job/SimpleTests)
+[![Build Status](https://shodan.dedyn.io:80/jenkins/job/SimpleTests/badge/icon)](https://shodan.dedyn.io:80/jenkins/job/SimpleTests)
