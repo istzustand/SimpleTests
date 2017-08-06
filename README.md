@@ -1,2 +1,2 @@
 # SimpleTests
-[![Build Status](http://78.47.131.110:8080/job/SimpleTests/badge/icon)](http://78.47.131.110:8080/job/SimpleTests?style=plastic)
+http://78.47.131.110:8080/job/SimpleTests/11//badge/icon
