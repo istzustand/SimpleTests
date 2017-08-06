@@ -18,7 +18,7 @@ public class SimpleTests {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        Integer max = 1000000;
+        Integer max = 100000;
         List<Object> Liste = new ArrayList<Object>();
         String test;
         for (int x = 0; x<max; x++) {
