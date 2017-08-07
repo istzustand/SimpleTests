@@ -37,7 +37,7 @@ public class Hello {
     
     @GET    
     public String Hello() {
-        return "Hallo!1elf";
+        return "Schuuessi!1elf";
     }
     
 }
